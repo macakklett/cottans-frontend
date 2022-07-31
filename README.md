@@ -12,6 +12,14 @@
 
 Основи: Introduction Sequence
 Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
-<img src="images/game.png" style="width: 100%; height: 100%">
-<img src="images/game2.png" style="width: 100%; height: 100%">
+<img src="images/game.png">
+<img src="images/game2.png">
 
+## Linux CLI, and HTTP
+2. Linux, Command Line, HTTP Tools
+
+2.2 Linux Survival
+<img src="task_linux_cli/lnx.png">
+<img src="task_linux_cli/lnx2.png">
+<img src="task_linux_cli/lnx3.png">
+<img src="task_linux_cli/lnx4.png">
