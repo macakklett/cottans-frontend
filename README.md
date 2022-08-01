@@ -13,22 +13,22 @@
 Основи: Introduction Sequence
 Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 ![game](./images/game.png)
-(./images/game2.png)
+![game-2](./images/game2.png)
 
 ## Linux CLI, and HTTP
 2. Linux, Command Line, HTTP Tools
 
 2.2 Linux Survival
-(./task_linux_cli/lnx.png)
-(./task_linux_cli/lnx2.png)
-(./task_linux_cli/lnx3.png)
-(./task_linux_cli/lnx4.png)
+![lnx-1](./task_linux_cli/lnx.png)
+![lnx-2](./task_linux_cli/lnx2.png)
+![lnx-3](./task_linux_cli/lnx3.png)
+![lnx-4](./task_linux_cli/lnx4.png)
 
 ## Git Collaboration
 3. Git для командної співпраці
 
 3.1 Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub
-(./task_git_collaboration/Git and GitHub.png)
+![G&GH](./task_git_collaboration/Git and GitHub.png)
 
 3.2 Пройдіть наступні рівні learngitbranching.js.org:
 Основи: Їдемо далі, Переміщуємо роботу туди-сюди 
