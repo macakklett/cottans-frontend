@@ -6,13 +6,13 @@
 
 Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
 Для того, щоб проходити курс безкоштовно, треба натиснути кнопку "Enroll for free" і потім на лінк внизу "Audit course"
-(./images/coursera.png)
+![coursera](./images/coursera.png)
 
 2.2 Пройдіть наступні рівні тут learngitbranching:
 
 Основи: Introduction Sequence
 Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
-(./images/game.png)
+![game](./images/game.png)
 (./images/game2.png)
 
 ## Linux CLI, and HTTP
