@@ -23,3 +23,14 @@
 <img src="task_linux_cli/lnx2.png">
 <img src="task_linux_cli/lnx3.png">
 <img src="task_linux_cli/lnx4.png">
+
+## Git Collaboration
+3. Git для командної співпраці
+
+3.1 Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub
+<img src="task_git_collaboration/Git and GitHub.png">
+
+3.2 Пройдіть наступні рівні learngitbranching.js.org:
+Основи: Їдемо далі, Переміщуємо роботу туди-сюди
+Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
+Зроблені ще з самого початку(крім останнього), в теці будуть копії скрінів
