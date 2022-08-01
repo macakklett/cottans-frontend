@@ -28,7 +28,7 @@
 3. Git для командної співпраці
 
 3.1 Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub
-![G&GH](./task_git_collaboration/Git and GitHub.png)
+![Git and GitHub](./task_git_collaboration/GitandGitHub.png)
 
 3.2 Пройдіть наступні рівні learngitbranching.js.org:
 Основи: Їдемо далі, Переміщуємо роботу туди-сюди 
