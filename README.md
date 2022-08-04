@@ -28,9 +28,19 @@
 3. Git для командної співпраці
 
 3.1 Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub
-![Git and GitHub](./task_git_collaboration/GitandGitHub.png)
+![Git and GitHub](./task_git_collaboration/GitHub.png)
 
 3.2 Пройдіть наступні рівні learngitbranching.js.org:
 Основи: Їдемо далі, Переміщуємо роботу туди-сюди 
 Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
 Зроблені ще з самого початку(крім останнього), в теці будуть копії скрінів
+
+## Intro to HTML and CSS
+4. Вступ до HTML і CSS
+
+4.1 Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу Intro to HTML & CSS
+![coursera-css](./task_html_css_intro/coursera-css.png)
+4.2 Learn HTML 
+![html](./task_html_css_intro/html.png) 
+4.3 Learn CSS 
+![css](./task_html_css_intro/css.png)
