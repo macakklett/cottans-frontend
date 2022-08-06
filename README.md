@@ -44,3 +44,12 @@
 ![html](./task_html_css_intro/html.png) 
 4.3 Learn CSS 
 ![css](./task_html_css_intro/css.png)
+
+## Responsive Web Design
+5. Адаптивний Web Design
+
+5.1 Flexbox
+![flex-game](./task_responsive_web_design/flex-game.png)
+
+5.2 CSS Drid Layout
+![grid-game](./task_responsive_web_design/grid-game.png)
